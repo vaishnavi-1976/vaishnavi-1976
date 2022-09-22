@@ -1,4 +1,4 @@
-<img align="centre" alt="Banner" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F95746151%2FWIJMOBIEL-GIF-ANIMATED-BANNERS&psig=AOvVaw0IC44BTVn3YTiBJmTJiHeD&ust=1663922495997000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDH_cGAqPoCFQAAAAAdAAAAABAI">
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi, Vaishnavi Here 👋</h1>
 <h3 align="center">BTech Computer Science and Engineering Student @ Vellore Institute Of Technology, Full Stach Developer and AI-ML and Data Analytics enthusiastic</h3>
