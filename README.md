@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
 
 <h1 align="center">Hi, Vaishnavi Here 👋</h1>
-<h3 align="center">BTech Computer Science and Engineering Student @ Vellore Institute Of Technology, Full Stach Developer and AI-ML and Data Analytics enthusiastic</h3>
+<h3 align="center">BTech Computer Science and Engineering Student @ Vellore Institute Of Technology, Full Stack Developer and AI/ML and Data Analytic enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
